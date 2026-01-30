@@ -22,6 +22,10 @@ body {
   .buttons {
     margin-top: 20px;
   }
+
+.heart {
+  color: #ff6780;
+}
   
   .yes-button {
     font-size: 1.5em;
