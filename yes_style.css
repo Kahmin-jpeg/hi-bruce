@@ -80,6 +80,10 @@ body {
         text-decoration: none;
         }
 
+.heart {
+  color: #ff4d6d;
+}
+
 
         .section {
             padding: 60px 20px;
